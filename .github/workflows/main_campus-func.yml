@@ -1,5 +1,6 @@
 name: Deploy Campus Energy Function
 
+
 on:
   push:
     branches:
